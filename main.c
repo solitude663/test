@@ -4,7 +4,6 @@
 
 int main(void)
 {
-	printf("Hello World %s\n", __FILE__);
-	printf("Hello Sailor Anthony %s\n", "Brown");
+	printf("Test success 1\n");
 	return 0;
 }
